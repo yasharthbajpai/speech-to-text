@@ -10,7 +10,7 @@ const port = process.env.PORT || 3000;
 const perplexityApikey = "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";
 const googleapijason = "myjson.json";
 
-// Updated size limits for larger audio files
+// Updated size limits for larger audio filess
 app.use(bodyParser.json({limit: '50mb'}));
 app.use(bodyParser.urlencoded({limit: '50mb', extended: true}));
 
