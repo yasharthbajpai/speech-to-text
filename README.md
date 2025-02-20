@@ -47,7 +47,7 @@ This project is designed to streamline meeting management by providing users wit
 
 ## **Demo Video**
 
-Watch the demo video of the project [here](https://mail.google.com/mail/u/0/#inbox/FMfcgzQZTMPKWbWVxZVxnhnVnSZFVvCT).
+Watch the demo video of the project [here](https://drive.google.com/file/d/1-oLAptCu11Fk1-7BexIglu0uPxM5yz_E/view?usp=sharing).
 
 ---
 
@@ -146,9 +146,6 @@ project/
 |-------------|------------------------------|
 | ![Home Screen](https://github.com/user-attachments/assets/359cbe47-2bb1-4d07-9195-06ab6557dd91) | ![Transcript & Meeting Details](https://github.com/user-attachments/assets/7b00c822-9f6d-488a-bf6c-2ef87585cb9b) |
 
-
-
----
 
 
 ---
