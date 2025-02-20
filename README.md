@@ -140,6 +140,15 @@ project/
 └── README.md                   # Documentation file
 ```
 
+## **Screenshots**
+
+| Home Screen | Transcript & Meeting Details |
+|-------------|------------------------------|
+| ![Home Screen](https://github.com/user-attachments/assets/359cbe47-2bb1-4d07-9195-06ab6557dd91) | ![Transcript & Meeting Details](https://github.com/user-attachments/assets/7b00c822-9f6d-488a-bf6c-2ef87585cb9b) |
+
+
+
+---
 
 
 ---
@@ -151,6 +160,7 @@ project/
 3. Enable offline transcription using local models.
 
 ---
+
 
 ## **Contact**
 
