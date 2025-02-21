@@ -2,7 +2,10 @@ import axios from 'axios';
 import fs from 'fs';
 import { google } from 'googleapis';
 
-const perplexityApikey = "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";
+import dotenv from "dotenv"
+dotenv.config();
+
+const perplexityApikey = process.env.API_PERPLEXITY;
 const googleapijason = "myjson.json";
 
 // Google Auth Setup
