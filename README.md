@@ -44,10 +44,18 @@ This project is designed to streamline meeting management by providing users wit
 - A visually appealing dark mode design for better user experience.
 
 ---
-
 ## **Demo Video**
 
-Watch the demo video of the project [here](https://drive.google.com/file/d/1-oLAptCu11Fk1-7BexIglu0uPxM5yz_E/view?usp=sharing).
+Here is my main link where I have helped people understand how my project works by giving a hands-on demo:  
+[Watch Demo](https://drive.google.com/file/d/1JJUSwAfzZxw-CRgNoQbMMhowFXyPLdYB/view?usp=sharing)
+
+
+---
+
+### **Code Walkthrough**
+
+Here is my second link where I have explained how the code works in the backend and frontend, line by line:  
+[Watch Code Walkthrough](https://drive.google.com/file/d/14zXcxG5h7DMAgewj9b0pYDV3eLE6fERn/view?usp=sharing)
 
 ---
 
